@@ -1,0 +1,77 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+
+.yoo
+{
+    height: 800px;
+   width: 183%;
+   opacity: 18%;
+   margin-top: 5%;
+
+}
+
+
+
+.consist
+{
+    width: 800px;
+}
+
+.hero
+{
+    color: white;
+    margin-top: -70%;
+    font-size: 75px;
+}
+
+.verticle
+{
+ 
+    width: 200px;
+    height: 5px;
+    background: rgba(73, 182, 73, 1);
+    margin-top: -50%;
+    border-radius: 10px;
+
+}
+
+.para5
+{
+    color: white;
+    margin-left: 120%;
+    width: 400px;
+    font-size: 25px;
+    margin-top: -10%;
+   
+}
+
+
+/*media query start*/
+
+@media screen and (max-width:600px){
+    
+    .yoo
+    {
+        width: 79%;
+    }
+
+    .hero
+    {
+        font-size: 45px;
+        width: 320px;
+        margin-left: 3%;
+        margin-top: -90%;
+    }
+
+    .para5
+    {
+        font-size: 12px;
+        margin-top: 50%;
+        margin-left: 5%;
+        width: 240px;
+        
+    }
+}

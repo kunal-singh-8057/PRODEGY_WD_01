@@ -1,0 +1,117 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+
+.heading1
+{
+    color: white;
+    margin-top: 13%;
+    margin-left: 21.5%;
+    font-size: 75px;
+ 
+}
+
+
+.para1
+{
+    width: 800px;
+    color: white;
+    margin-left: 22%;
+    margin-top: 5%;
+}
+
+
+.setlogos
+{
+    display: flex;
+    align-items: center;
+    margin-top: 5%;
+    margin-left: 29%;
+    gap: 5%;
+}
+
+.subhead1
+{
+    color: white;
+    margin-left: -18%;
+}
+
+.subpara1
+{
+    color: white;
+    width: 150px;
+    margin-left: -3%;
+
+}
+
+
+.subhead2
+{
+    color: white;
+    margin-left: -18%;
+}
+
+.subpara2
+{
+    color: white;
+    width: 150px;
+    margin-left: -3%;
+
+}
+
+.subhead3
+{
+    color: white;
+    margin-left: -18%;
+}
+
+.subpara3
+{
+    color: white;
+    width: 150px;
+    margin-left: -3%;
+
+}
+
+/*media query started*/
+
+@media  screen and (max-width:600px) {
+    .heading1
+    {
+        font-size: 45px;
+        margin-left: 8%;
+    }
+
+    .para1
+    {
+        margin-left: 15%;
+        font-size: 15px;
+        width: 240px;
+        
+    }
+
+   .setlogos
+   {
+    display: inline;
+   }
+
+   .set1
+   {
+    margin-left: 34%;
+   
+   }
+
+   .set2
+   {
+    margin-left: 34%;
+    margin-top: 8%;
+   }
+
+   .set3
+   {
+    margin-left: 34%;
+    margin-top: 8%;
+   }
+}
