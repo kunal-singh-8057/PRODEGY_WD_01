@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/PRODEGY_WD_01/static/css/main.ee56abc7.css",
+    "main.js": "/PRODEGY_WD_01/static/js/main.86b93ccf.js",
+    "static/js/453.d33b13eb.chunk.js": "/PRODEGY_WD_01/static/js/453.d33b13eb.chunk.js",
+    "static/media/s.jpg": "/PRODEGY_WD_01/static/media/s.aa4c644cabe0dc5a5cca.jpg",
+    "static/media/girl.png": "/PRODEGY_WD_01/static/media/girl.cc5cc68ca0350d08ceed.png",
+    "static/media/small.png": "/PRODEGY_WD_01/static/media/small.cc5cc68ca0350d08ceed.png",
+    "static/media/back.jpg": "/PRODEGY_WD_01/static/media/back.b062a54f204343bbdd0e.jpg",
+    "static/media/Ellipse 1.png": "/PRODEGY_WD_01/static/media/Ellipse 1.f9c01917f0750d30555a.png",
+    "static/media/Mask Group.svg": "/PRODEGY_WD_01/static/media/Mask Group.3b8fd98b568716f292f9cf112a410e83.svg",
+    "static/media/Service Tips.svg": "/PRODEGY_WD_01/static/media/Service Tips.d8bbe1b6e622dddb02e8200babd60606.svg",
+    "static/media/Wedding Gift.svg": "/PRODEGY_WD_01/static/media/Wedding Gift.13ce04e207d414f84f5f233c3eaa6447.svg",
+    "static/media/Travel Agency.svg": "/PRODEGY_WD_01/static/media/Travel Agency.abc07d280532f625f11fb933f696c01e.svg",
+    "index.html": "/PRODEGY_WD_01/index.html",
+    "main.ee56abc7.css.map": "/PRODEGY_WD_01/static/css/main.ee56abc7.css.map",
+    "main.86b93ccf.js.map": "/PRODEGY_WD_01/static/js/main.86b93ccf.js.map",
+    "453.d33b13eb.chunk.js.map": "/PRODEGY_WD_01/static/js/453.d33b13eb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ee56abc7.css",
+    "static/js/main.86b93ccf.js"
+  ]
+}
